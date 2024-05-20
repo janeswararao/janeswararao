@@ -1,0 +1,16 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "..\\app apks\\SC Partner.apk"
+  ],
+  "treeExpansions": [],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [],
+  "cacheDir": "C:\\Users\\allam\\AppData\\Local\\skylot\\jadx\\cache\\projects\\SC Partner-930e7d77f875871b0fc60dac5d4b0d13",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "pluginOptions": {}
+}
